@@ -57,4 +57,6 @@ public class VerificaIp {
 		return listaDeIpsPermitidos;
 	}
 	
+
+	
 }
